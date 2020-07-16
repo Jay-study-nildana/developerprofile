@@ -16,7 +16,7 @@ I maintain multiple open source projects, and many of them are used to show to c
 4. Basic web programming tutorial textbook. [Github repo details here](https://github.com/Jay-study-nildana/Tutorials)
 5. Studying COVID19 with Azure ML for future projections. [Github repo details here](https://github.com/Jay-study-nildana/AzureMLPublic/tree/master/COVID19)
 
-# multi platform developer
+## multi platform developer
 
 I tend to work on multiple projects, on multiple platforms and across so many different technologies. I ended up working a lot in small teams for small businesses from all over the world (remotely), and I ended up picking so many different things. Hence, the many different projects listed above.
 
