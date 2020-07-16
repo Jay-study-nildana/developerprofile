@@ -22,7 +22,9 @@ I tend to work on multiple projects, on multiple platforms and across so many di
 
 ## Hire Me
 
-I currently maintain my [freelancer work profile, on UpWork](https://www.upwork.com/freelancers/~01904029c2e21585f4). It has full details about my past commercial work, testimonials and related details. Consider checking my profile out, and hiring me directly on UpWork. 
+I currently maintain my [freelancer work profile, on UpWork](https://www.upwork.com/freelancers/~01904029c2e21585f4). It has full details about my past commercial work, testimonials and related details. 
+
+Consider checking my profile out, and hiring me directly on UpWork. 
 
 ## Contact Details
 
