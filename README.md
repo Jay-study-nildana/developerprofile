@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to my Developer Profile
 
-You can use the [editor on GitHub](https://github.com/Jay-study-nildana/developerprofile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, I am Jay. I am a software developer and trainer. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Previously, I maintained a website on wordpress, but I decided to use wordpress only for personal website. Almost all of my example code, open source projects are live on github, it made sense to simply set this right here on github. 
 
-### Markdown
+If you are a potential client, please consider this as my online resume/profile showcase.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Open Source Projects
 
-```markdown
-Syntax highlighted code block
+I maintain multiple open source projects, and many of them are used to show to clients, and also used when I take up corporate and college trainings.
 
-# Header 1
-## Header 2
-### Header 3
+1. ASP .NET based API server with bearer token authentication. [Github repo details here](https://github.com/Jay-study-nildana/ProjectWTPublicRepos/tree/master/ProjectCRUD)
+2. Bootstrap and JavaScript based simple web app that consumes API server mentioned at no.1 in this list. [Github repo details here](https://github.com/Jay-study-nildana/Tutorials/tree/master/WebCode/BariBasicsProgrammingWebApp)
+3. iPhone/iPad app that consumes API server mentioned at no.1 in this list. [Github repo details here](https://github.com/Jay-study-nildana/ProjectWTPublicRepos/tree/master/ClientiOS/atharviosapp)
+4. Basic web programming tutorial textbook. [Github repo details here](https://github.com/Jay-study-nildana/Tutorials)
+5. Studying COVID19 with Azure ML for future projections. [Github repo details here](https://github.com/Jay-study-nildana/AzureMLPublic/tree/master/COVID19)
 
-- Bulleted
-- List
+# multi platform developer
 
-1. Numbered
-2. List
+I tend to work on multiple projects, on multiple platforms and across so many different technologies. I ended up working a lot in small teams for small businesses from all over the world (remotely), and I ended up picking so many different things. Hence, the many different projects listed above.
 
-**Bold** and _Italic_ and `Code` text
+## Hire Me
 
-[Link](url) and ![Image](src)
-```
+I currently maintain my [freelancer work profile, on UpWork](https://www.upwork.com/freelancers/~01904029c2e21585f4). It has full details about my past commercial work, testimonials and related details. Consider checking my profile out, and hiring me directly on UpWork. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact Details
 
-### Jekyll Themes
+Here are the many ways in which I can be reached. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jay-study-nildana/developerprofile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- My github [profile](https://github.com/Jay-study-nildana) has my personal website and email address. 
+- Linked In [Profile](https://www.linkedin.com/in/vijayasimhabr/)
+- I also have my personal website, [https://stories.thechalakas.com/](https://stories.thechalakas.com/), where I publish blog, podcast, game on twitch and even run a youtube channel.
