@@ -25,6 +25,8 @@ I currently maintain my [freelancer work profile, on UpWork](https://www.upwork.
 
 Consider checking my profile out, and consider hiring me directly on UpWork. 
 
+* Please note - UpWork profile only visible if you are logged in to upwork. It's a limitation on the website.
+
 ## Contact Details
 
 Here are the many ways in which I can be reached. 
@@ -32,3 +34,5 @@ Here are the many ways in which I can be reached.
 - My github [profile](https://github.com/Jay-study-nildana) has my email address. 
 - Linked In [Profile](https://www.linkedin.com/in/vijayasimhabr)
 - I also have my personal website, [https://stories.thechalakas.com](https://stories.thechalakas.com), where I publish blog, podcast, game on twitch and run a youtube channel.
+
+* Please note - LinkedIn profile only visible if you are logged in to upwork. It's a limitation on the website.
