@@ -35,4 +35,4 @@ Here are the many ways in which I can be reached.
 - Linked In [Profile](https://www.linkedin.com/in/vijayasimhabr)
 - I also have my personal website, [https://stories.thechalakas.com](https://stories.thechalakas.com), where I publish blog, podcast, game on twitch and run a youtube channel.
 
-* Please note - LinkedIn profile only visible if you are logged in to upwork. It's a limitation on the website.
+* Please note - LinkedIn profile only visible if you are logged in to LinkedIn. It's a limitation on the website.
