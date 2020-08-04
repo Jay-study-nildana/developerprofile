@@ -10,13 +10,10 @@ If you are a potential client, please consider this as my online resume/profile 
 
 I maintain multiple open source projects, and many of them are used to show to clients, and also used when I take up corporate and college trainings.
 
-1. ASP .NET based API server with bearer token authentication. [Github repo details here](https://github.com/Jay-study-nildana/ProjectWTPublicRepos/tree/master/ProjectCRUD)
-2. Bootstrap and JavaScript based simple web app that consumes API server mentioned at no.1 in this list. [Github repo details here](https://github.com/Jay-study-nildana/Tutorials/tree/master/WebCode/BariBasicsProgrammingWebApp)
-3. iPhone/iPad app that consumes API server mentioned at no.1 in this list. [Github repo details here](https://github.com/Jay-study-nildana/ProjectWTPublicRepos/tree/master/ClientiOS/atharviosapp)
-4. Basic web programming tutorial textbook. [Github repo details here](https://github.com/Jay-study-nildana/Tutorials)
-5. Studying COVID19 with Azure ML for future projections. [Github repo details here](https://github.com/Jay-study-nildana/AzureMLPublic/tree/master/COVID19)
-
-Along with all the above, I have one large monorepo which contains all these projects, if you wish to see all of my demo/showcase/open projects at once. [Github repo details here](https://github.com/Jay-study-nildana/ProjectWTPublicRepos)
+1. API/Backend Servers - multiple technologies. [Github repo details here](https://github.com/Jay-study-nildana/ProjectWTPublicRepos/tree/master/apiservers)
+1. Client apps - multiple technologies. [Github repo details here](https://github.com/Jay-study-nildana/ProjectWTPublicRepos/tree/master/apps)
+1. Basic web programming tutorial textbook. [Github repo details here](https://github.com/Jay-study-nildana/Tutorials)
+1. Studying COVID19 with Azure ML for future projections. [Github repo details here](https://github.com/Jay-study-nildana/AzureMLPublic/tree/master/COVID19)
 
 ## multi platform developer
 
