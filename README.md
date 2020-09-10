@@ -31,8 +31,12 @@ Consider checking my profile out, and consider hiring me directly on UpWork.
 
 Here are the many ways in which I can be reached. 
 
-- My github [profile](https://github.com/Jay-study-nildana) has my email address. 
+- My github [profile](https://github.com/Jay-study-nildana)
 - Linked In [Profile](https://www.linkedin.com/in/vijayasimhabr)
+- Stack Overflow [Profile](https://stackoverflow.com/story/vijayasimhabr)
 - I also have my personal website, [https://stories.thechalakas.com](https://stories.thechalakas.com), where I publish blog, podcast, game on twitch and run a youtube channel.
 
-* Please note - LinkedIn profile only visible if you are logged in to LinkedIn. It's a limitation on the website.
+## Other Notes
+
+- LinkedIn profile only visible if you are logged in to LinkedIn. It's a limitation on the website.
+- my email address is available on github, linked in and on my personal website.
