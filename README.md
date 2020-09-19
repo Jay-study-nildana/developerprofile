@@ -1,8 +1,10 @@
 ## Welcome to my Developer Profile
 
-Hello, I am Jay. I am a software developer and trainer. 
+Hello, I am Jay. I am a full time freelance, independent software developer and trainer. 
 
-Previously, I maintained a website on wordpress, but I decided to use wordpress only for personal website. Almost all of my example code, open source projects are live on github, it made sense to simply set this right here on github. 
+I am primarily a Backend REST API developer on .NET Platform with Deployment skills related to Azure Cloud and Azure DevOps. This is where I have mostly focused on, in the last 8 years. 
+
+Of course, it is impossible to focus on one speciality in the current developer situation. To complement these backend development skills, I am familar with developing web apps using JavaScript and React. I am also familiar with mobile app development using React Native, Native Android and Native iOS. I have also dabbled in Node.JS BackEnd API development. 
 
 If you are a potential client, please consider this as my online resume/profile showcase.
 
@@ -15,9 +17,9 @@ I maintain multiple open source projects, and many of them are used to show to c
 1. Basic web programming tutorial textbook. [Github repo details here](https://github.com/Jay-study-nildana/Tutorials)
 1. Studying COVID19 with Azure ML for future projections. [Github repo details here](https://github.com/Jay-study-nildana/AzureMLPublic/tree/master/COVID19)
 
-## multi platform developer
+## Microsoft MVP - 2014
 
-I tend to work on multiple projects, on multiple platforms and across so many different technologies. I ended up working a lot in small teams for small businesses from all over the world (remotely), and I ended up picking so many different things. Hence, the many different projects listed above.
+In 2014, I was awarded the Microsoft MVP for my contributions to .NET Mobile. [Details here](https://mvp.microsoft.com/en-us/PublicProfile/5000415)
 
 ## Hire Me
 
