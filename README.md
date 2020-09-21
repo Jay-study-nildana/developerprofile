@@ -6,7 +6,12 @@ I am primarily a Backend REST API developer on .NET Platform with Deployment ski
 
 Of course, it is impossible to focus on one speciality in the current developer situation. To complement these backend development skills, I am familar with developing web apps using JavaScript and React. I am also familiar with mobile app development using React Native, Native Android and Native iOS. I have also dabbled in Node.JS BackEnd API development. 
 
-If you are a potential client, please consider this as my online resume/profile showcase.
+If you are a potential client, please consider this website as my online resume/profile showcase.
+
+You can also download a offline resume. 
+
+* [Click For Word Resume](resume/VijayasimhaBR.docx).
+* [Click For PDF Resume](resume/VijayasimhaBR.pdf).
 
 ## Open Source Projects
 
