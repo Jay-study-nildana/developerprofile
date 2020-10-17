@@ -38,17 +38,13 @@ I am primarily an API Developer but I have the neccesary skills to make myself m
 * Microsoft MVP Award - In 2014, I was awarded the Microsoft MVP for my contributions to .NET Mobile. [Details here](https://mvp.microsoft.com/en-us/PublicProfile/5000415)
 * Certified Arc.dev Developer - In 2020, I was certified as a Arc.dev platform developer which measures and evaluates top developers for their elite freelancer developer program.
 
-## Open Source Projects
+## ShowCase Demo Project
 
-All the projects are available for viewing on GitHub. 
+I have a full stack project called "random stuff generator". It's a Content Management Solution that deals with Quotes. 
 
-* [RandomStuffGenerator](https://github.com/Jay-study-nildana/RandomStuffGenerator)
-* [ReactJSRecipeApp](https://github.com/Jay-study-nildana/ReactJSRecipeApp)
-* [Auth0TokenVanillaJSApp](https://github.com/Jay-study-nildana/Auth0TokenVanillaJSApp)
-* [SimplePasswordTokenVanillaJSApp](https://github.com/Jay-study-nildana/SimplePasswordTokenVanillaJSApp)
-* [APIServerDotNetCoreWithAuth0](https://github.com/Jay-study-nildana/APIServerDotNetCoreWithAuth0)
-* [APIServerDotNetWithSimplePasswordToken](https://github.com/Jay-study-nildana/APIServerDotNetWithSimplePasswordToken)
-* [Tutorials](https://github.com/Jay-study-nildana/Tutorials)
+More details about this project is available [on this website](https://jay-study-nildana.github.io/RandomStuffDocs/)
+
+Other than this, primary, showcase project, I have several open source projects, all available under my github profile. GitHub link, available below.
 
 ## Hire Me
 
