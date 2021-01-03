@@ -48,14 +48,16 @@ Other than this, primary, showcase project, I have several open source projects,
 
 ## Hire Me
 
-I currently maintain my [freelancer work profile, on UpWork](https://www.upwork.com/freelancers/~01904029c2e21585f4). It has full details about my past commercial work, testimonials and related details. 
+I work as a full time freelance software developer and coding tutor. Hire me at [UpWork](https://www.upwork.com/fl/vijayasimhabr) or [Fiverr](https://www.fiverr.com/jay_codeguy).  
 
 ## Contact Details
 
-- Github [profile](https://github.com/Jay-study-nildana)
-- Linked In [Profile](https://www.linkedin.com/in/vijayasimhabr)
-- Stack Overflow [Profile](https://stackoverflow.com/story/vijayasimhabr)
-- Personal [website](https://stories.thechalakas.com)
+- [Project WT](https://medium.com/projectwt) - my programming tutorials blog.
+- [The Sanguine Tech Trainer](https://medium.com/the-sanguine-tech-trainer) - my general blog, but also talks about technology
+- [Github profile](https://github.com/Jay-study-nildana)
+- [Linked In Profile](https://www.linkedin.com/in/vijayasimhabr)
+- [Stack Overflow Profile](https://stackoverflow.com/story/vijayasimhabr)
+- [Personal website](https://stories.thechalakas.com)
 
 ## Other Notes
 
