@@ -7,6 +7,10 @@ You can also download a offline resume with the following links.
 * [Click For Word Resume](resume/VijayasimhaBR.docx).
 * [Click For PDF Resume](resume/VijayasimhaBR.pdf).
 
+Get in touch with me via email : jay@thechalakas.com .
+
+Get in touch with me via Skype : https://join.skype.com/invite/c3ukt7BesKCJ
+
 ## Backend REST API Developer
 
 My primary skills are that of a Backend Developer, specifically, building API servers that server JSON data for mobile and web apps. 
@@ -48,7 +52,12 @@ Other than this, primary, showcase project, I have several open source projects,
 
 ## Hire Me
 
-I work as a full time freelance software developer and coding tutor. Hire me at [UpWork](https://www.upwork.com/fl/vijayasimhabr) or [Fiverr](https://www.fiverr.com/jay_codeguy).  
+I work as a full time freelance software developer and coding tutor. 
+
+* Hire me at [UpWork](https://www.upwork.com/fl/vijayasimhabr)
+* Here me at [Fiverr](https://www.fiverr.com/jay_codeguy).  
+* You can also email me, jay@thechalakas.com .
+* You can Skype me, https://join.skype.com/invite/c3ukt7BesKCJ .
 
 ## Contact Details
 
