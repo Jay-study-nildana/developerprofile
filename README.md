@@ -9,7 +9,7 @@ You can also download a offline resume with the following links.
 
 Get in touch with me via email : jay@thechalakas.com .
 
-Get in touch with me via Skype : https://join.skype.com/invite/c3ukt7BesKCJ
+Get in touch with me via Skype : [https://join.skype.com/invite/c3ukt7BesKCJ](https://join.skype.com/invite/c3ukt7BesKCJ)
 
 ## Backend REST API Developer
 
@@ -57,7 +57,7 @@ I work as a full time freelance software developer and coding tutor.
 * Hire me at [UpWork](https://www.upwork.com/fl/vijayasimhabr)
 * Here me at [Fiverr](https://www.fiverr.com/jay_codeguy).  
 * You can also email me, jay@thechalakas.com .
-* You can Skype me, https://join.skype.com/invite/c3ukt7BesKCJ .
+* You can Skype me, [https://join.skype.com/invite/c3ukt7BesKCJ](https://join.skype.com/invite/c3ukt7BesKCJ) .
 
 ## Contact Details
 
