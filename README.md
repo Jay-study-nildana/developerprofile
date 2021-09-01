@@ -1,24 +1,21 @@
-## Welcome to my Developer Profile
+## Welcome to my Coding Tutor Profile
 
-Hello, my name is Vijayasimha BR. Please, call me, Jay. This is my online profile aka resume. 
-
-You can also download a offline resume with the following links. 
-
-* [Click For Word Resume](resume/VijayasimhaBR.docx).
-* [Click For PDF Resume](resume/VijayasimhaBR.pdf).
+Hello, my name is Vijayasimha BR. Please, call me, Jay. This is my online profile aka resume. I am a full time freelance coding tutor in .NET, C++, React JS and related tech.
 
 Get in touch with me via email : jay@thechalakas.com .
 
 Get in touch with me via Skype : [https://join.skype.com/invite/c3ukt7BesKCJ](https://join.skype.com/invite/c3ukt7BesKCJ)
 
-## Backend REST API Developer
+Note : Till 2021, I juggled between development and tutoring/training projects. As of 2021, due to personal reasons, I have retired from being a developer and have decided to focus on training only, going forward.
 
-My primary skills are that of a Backend Developer, specifically, building API servers that server JSON data for mobile and web apps. 
+## Coding Tutor Mentor and Corporate Trainer
 
-Technology Stack related to my expertise.
+My primary skills are that of a Coding Tutor. I also provide long term mentoring services. I also do corporate training for freshers and new hires.
 
-* Target Platform : .NET 4.X and .NET Core 3.X
-* Programming Language : C # 
+Technology Stack
+
+* Target Platform : .NET 4.X and .NET Core 3.X and .NET 5.X
+* Programming Language : C #, C, C++, Web Programming (HTML, CSS, Bootstrap, JavaScript) and React JS
 * Databases : EF Core supported Databases - SQL Server, SQLite, InMemory, Cosmos
 * API Documentation : Swagger and Postman
 * CICD : Azure DevOps Pipelines
@@ -30,7 +27,7 @@ Technology Stack related to my expertise.
 
 ## Complementary Skills
 
-I am primarily an API Developer but I have the neccesary skills to make myself more of a full stack developer. 
+Thanks to years of working in tech, I have the following complementary knowledge.
 
 * Front end web app development : Vanilla JS, React JS, jQuery, Express JS with Node
 * Mobile app development : iOS app development using XCode. Android app development using Android Studio.
@@ -41,6 +38,7 @@ I am primarily an API Developer but I have the neccesary skills to make myself m
 
 * Microsoft MVP Award - In 2014, I was awarded the Microsoft MVP for my contributions to .NET Mobile. [Details here](https://mvp.microsoft.com/en-us/PublicProfile/5000415)
 * Certified Arc.dev Developer - In 2020, I was certified as a Arc.dev platform developer which measures and evaluates top developers for their elite freelancer developer program.
+* UpWork Top Rated - As of August 2021, I am Top Rated on UpWork.
 
 ## ShowCase Demo Project
 
