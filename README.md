@@ -8,6 +8,13 @@ Get in touch with me via Skype : [https://join.skype.com/invite/c3ukt7BesKCJ](ht
 
 Note : Till 2021, I juggled between development and tutoring/training projects. As of 2021, due to personal reasons, I have retired from being a developer and have decided to focus on training only, going forward.
 
+# Certifications, Awards and Achievements
+
+* [Responsive Web Design](https://www.freecodecamp.org/certification/jay_tutor/responsive-web-design) Certification from freeCodeCamp.
+* [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000415)
+* [Top Rated Badge on UpWork](https://www.upwork.com/fl/vijayasimhabr), as on September 2021.
+* [Level One on Fiverr](https://www.fiverr.com/jay_codeguy), as on September 2021.
+
 ## Coding Tutor Mentor and Corporate Trainer
 
 My primary skills are that of a Coding Tutor. I also provide long term mentoring services. I also do corporate training for freshers and new hires.
