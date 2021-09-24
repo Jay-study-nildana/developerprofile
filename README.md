@@ -41,12 +41,6 @@ Thanks to years of working in tech, I have the following complementary knowledge
 * Development Machines : I have a fully equipped home office with Windows and Mac Computers, backup power supply and a direct to home fiber internet connection for seamless video and audio conferencing.
 * Communication : Most of my 8 years of working has been with customers based in US and UK. I have excellent spoken and written english.
 
-# Award and Recognition
-
-* Microsoft MVP Award - In 2014, I was awarded the Microsoft MVP for my contributions to .NET Mobile. [Details here](https://mvp.microsoft.com/en-us/PublicProfile/5000415)
-* Certified Arc.dev Developer - In 2020, I was certified as a Arc.dev platform developer which measures and evaluates top developers for their elite freelancer developer program.
-* UpWork Top Rated - As of August 2021, I am Top Rated on UpWork.
-
 ## ShowCase Demo Project
 
 I have a full stack project called "random stuff generator". It's a Content Management Solution that deals with Quotes. 
