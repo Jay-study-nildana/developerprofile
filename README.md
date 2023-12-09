@@ -2,9 +2,14 @@
 
 Hello, my name is Vijayasimha BR. Please, call me, Jay. This is my online profile aka resume. 
 
-Get in touch with me via email : jay@thechalakas.com .
+Get in touch with me via email : jay@thechalakas.com . vijayasimhabr@live.com
 
-Get in touch with me via Skype : [https://join.skype.com/invite/c3ukt7BesKCJ](https://join.skype.com/invite/c3ukt7BesKCJ)
+## Traveling Hobby
+
+So, most of my life revolves around traveling.
+
+1. Read about my travels at my blog. [Jay’s Traveling Logs](https://vijayasimhabr.medium.com/list/jays-traveling-logs-9175beaccfc4)
+2. See my travel photos at my instagram. [jay_instogrm](https://www.instagram.com/jay_instogrm/)
 
 ## Certifications, Awards and Achievements
 
@@ -15,17 +20,24 @@ As of January 3rd 2023.
 * [Level Two on Fiverr](https://www.fiverr.com/jay_codeguy)
 * [freeCodeCamp Certifications](https://www.freecodecamp.org/jay_tutor)
 
-## Tutor
+## Tutor : 2012 to Present
 
-My primary skills are that of a Coding Tutor. I also provide long term mentoring services. My particular speciality is in teaching first time coders who are learning coding for the first time. 
-
-Technology Stack That I Tutor. I am most suited for first time learners/freshers.
+My primary skills are that of a Coding Tutor. I also provide long term mentoring services. My particular speciality is in teaching first time coders who are learning coding for the first time. Technology Stack That I Tutor. I am most suited for first time learners/freshers.
 
 1. Front End Development. HTML. CSS. JavaScript. Bootstrap. React JS.
-1. GitHub Usage
-1. C# and .NET and Web API
+1. GitHub and Git
+1. Back End Development. C# and .NET and Web API
+2. Back End Development. Node JS and Web API
 1. Azure
 1. P5.JS
+
+## AmiaY Workshops and Merch - Co-Founder - 2023 Onwards
+
+I cofounded this company that provides workshops and training on board games such as Chess, Catan, Ticket to Ride, Jaipur, Splendor, Azul and so on.
+
+1. Website, [http://amiay.in](http://amiay.in)
+2. Instagram: [instagram.com/amiayworkshopsandmerch](instagram.com/amiayworkshopsandmerch)
+3. LinkedIn: [https://www.linkedin.com/company/amiay-workshops-and-merch/](https://www.linkedin.com/company/amiay-workshops-and-merch/) 
 
 ## Hobbies
 
