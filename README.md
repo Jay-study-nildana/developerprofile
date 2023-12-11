@@ -13,16 +13,16 @@ So, most of my life revolves around traveling.
 
 ## Certifications, Awards and Achievements
 
-As of January 3rd 2023. 
+As on December 11th 2023.
 
-* [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000415)
+* [Microsoft MVP Certification on Credly](https://www.credly.com/badges/cec537a7-2e68-4f37-9f4d-c028e6828085/public_url)
 * [Top Rated Badge on UpWork](https://www.upwork.com/fl/vijayasimhabr)
 * [Level Two on Fiverr](https://www.fiverr.com/jay_codeguy)
 * [freeCodeCamp Certifications](https://www.freecodecamp.org/jay_tutor)
 
 ## Tutor : 2012 to Present
 
-My primary skills are that of a Coding Tutor. I also provide long term mentoring services. My particular speciality is in teaching first time coders who are learning coding for the first time. Technology Stack That I Tutor. I am most suited for first time learners/freshers.
+My primary skills are that of a Coding Tutor. Career and Life Coach. I also do small business consulting, startup and freelancing coaching.
 
 1. Front End Development. HTML. CSS. JavaScript. Bootstrap. React JS.
 1. GitHub and Git
@@ -31,13 +31,34 @@ My primary skills are that of a Coding Tutor. I also provide long term mentoring
 1. Azure
 1. P5.JS
 
+## Photographer : 2019 to Present
+
+I own my own photo studio. My studio provides photography services to small business with product shoots as well photography coaching services. 
+
+1. Website: https://sandkdesignstudio.in
+1. Photography Nature. You can see my nature photography on [Unsplash](https://unsplash.com/@jay_neeruhaaku).
+1. Photography Fashion. You can see my fashion photography on [Behance](https://www.behance.net/vijayasimhabr)
+
 ## AmiaY Workshops and Merch - Co-Founder - 2023 Onwards
 
 I cofounded this company that provides workshops and training on board games such as Chess, Catan, Ticket to Ride, Jaipur, Splendor, Azul and so on.
 
 1. Website, [http://amiay.in](http://amiay.in)
 2. Instagram: [instagram.com/amiayworkshopsandmerch](instagram.com/amiayworkshopsandmerch)
-3. LinkedIn: [https://www.linkedin.com/company/amiay-workshops-and-merch/](https://www.linkedin.com/company/amiay-workshops-and-merch/) 
+3. LinkedIn: [https://www.linkedin.com/company/amiay-workshops-and-merch/](https://www.linkedin.com/company/amiay-workshops-and-merch/)
+
+## Book Published
+
+I have the following novel published and available on Amazon India Kindle Store. 
+
+1. [Platform Kathe](https://amzn.eu/d/3v4FPCt) : a short story about a technician who finds himself working on a dead end project.
+
+## YouTube Channels
+
+I have the following YouTube Channels.
+
+1. [Jay's Coding Channel](https://www.youtube.com/channel/UCJJVulg4J7POMdX0veuacXw)
+2. [Jay's Movie Thoughts](https://www.youtube.com/channel/UCQbiE3FFa6FIHKqJ7CRvKaA)
 
 ## Hobbies
 
@@ -45,8 +66,7 @@ I try to maintain a few hobbies.
 
 1. Podcasting. You can listen to my daily life [podcast](https://stories.thechalakas.com/listen-to-podcast/).
 1. Podcasting. You can listen to my movies [podcast](https://sandkdesignstudio.in/jays-movie-podcast/).
-1. Photography Nature. You can see my photography on [Unsplash](https://unsplash.com/@jay_neeruhaaku).
-1. Photography Fashion. You can see my fashion photography on [Behance](https://www.behance.net/vijayasimhabr)
+2. Podcasting. You can listen to my freelancing advice [podcast](https://freelancingstories.substack.com/podcast)
 1. Digital Photorealism 3D Art. You can see my work on [ArtStation](https://www.artstation.com/jay_kalenildana).
 1. Daily Life Blog. [Read it here](https://medium.com/the-sanguine-tech-trainer).
 1. Coding and Technology Blog. [Read it here](https://medium.com/projectwt).
@@ -64,7 +84,7 @@ I work as a full time freelance software developer and coding tutor.
 
 * Hire me at [UpWork](https://www.upwork.com/fl/vijayasimhabr)
 * Hire me at [Fiverr](https://www.fiverr.com/jay_codeguy).  
-* You can also email me, jay@thechalakas.com
+* You can also email me, jay@thechalakas.com or vijayasimhabr@live.com
 
 ## Contact Details
 
