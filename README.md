@@ -35,7 +35,7 @@ My primary skills are that of a Coding Tutor. Career and Life Coach. I also do s
 
 I own my own photo studio. My studio provides photography services to small business with product shoots as well photography coaching services. 
 
-1. Website: https://sandkdesignstudio.in
+1. Website: [sandkdesignstudio.in](https://sandkdesignstudio.in)
 1. Photography Nature. You can see my nature photography on [Unsplash](https://unsplash.com/@jay_neeruhaaku).
 1. Photography Fashion. You can see my fashion photography on [Behance](https://www.behance.net/vijayasimhabr)
 
@@ -43,9 +43,9 @@ I own my own photo studio. My studio provides photography services to small busi
 
 I cofounded this company that provides workshops and training on board games such as Chess, Catan, Ticket to Ride, Jaipur, Splendor, Azul and so on.
 
-1. Website, [http://amiay.in](http://amiay.in)
-2. Instagram: [instagram.com/amiayworkshopsandmerch](instagram.com/amiayworkshopsandmerch)
-3. LinkedIn: [https://www.linkedin.com/company/amiay-workshops-and-merch/](https://www.linkedin.com/company/amiay-workshops-and-merch/)
+1. Website, [amiay.in](http://amiay.in)
+2. Instagram: [amiayworkshopsandmerch](instagram.com/amiayworkshopsandmerch)
+3. LinkedIn: [amiay-workshops-and-merch](https://www.linkedin.com/company/amiay-workshops-and-merch/)
 
 ## Book Published
 
