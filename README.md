@@ -10,6 +10,7 @@ So, most of my life revolves around traveling.
 
 1. Read about my travels at my blog. [Jay’s Traveling Logs](https://vijayasimhabr.medium.com/list/jays-traveling-logs-9175beaccfc4)
 2. See my travel photos at my instagram. [jay_instogrm](https://www.instagram.com/jay_instogrm/)
+3. Follow me for travel updates on threads. [jay_instogrm](https://www.threads.net/@jay_instogrm)
 
 ## Certifications, Awards and Achievements
 
@@ -30,6 +31,8 @@ My primary skills are that of a Coding Tutor. Career and Life Coach. I also do s
 2. Back End Development. Node JS and Web API
 1. Azure
 1. P5.JS
+
+Follow me for coding updates on threads. [codingtutorjay](https://www.threads.net/@codingtutorjay)
 
 ## Photographer : 2019 to Present
 
