@@ -12,6 +12,13 @@ So, most of my life revolves around traveling.
 2. See my travel photos at my instagram. [jay_instogrm](https://www.instagram.com/jay_instogrm/)
 3. Follow me for travel updates on threads. [jay_instogrm](https://www.threads.net/@jay_instogrm)
 
+## BA Honours English via IGNOU : 2023 Onwards
+
+So, one of my childhood dreams was to study literature as a proper degree. I cannot go to a regular college (I am old, and most colleges have very strict attendance requirements and I cannot sit in classoom benches which have no back support, I mean, my back is dead due to decades of coding work) so I decided to opt for distance learning through IGNOU. 
+
+1. Read about my BA Degree journey, at my blog, [Jay's BA Honors English Journey](https://vijayasimhabr.medium.com/list/jays-ba-honors-english-journey-4dc058fb0753)
+2. Listen to literature Podcast. [audio stories with jay](https://audiostorieswithjay.substack.com/podcast)
+
 ## Certifications, Awards and Achievements
 
 As on December 11th 2023.
@@ -21,7 +28,7 @@ As on December 11th 2023.
 * [Level Two on Fiverr](https://www.fiverr.com/jay_codeguy)
 * [freeCodeCamp Certifications](https://www.freecodecamp.org/jay_tutor)
 
-## Tutor : 2012 to Present
+## Tutor. Coach : 2012 to Present
 
 My primary skills are that of a Coding Tutor. Career and Life Coach. I also do small business consulting, startup and freelancing coaching.
 
