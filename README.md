@@ -1,8 +1,10 @@
 ## Welcome to my Coding Tutor Profile
 
-Hello, my name is Vijayasimha BR. Please, call me, Jay. This is my online profile aka resume. 
+Tutor. Semi-Retired. Full name : Vijayasimha BR 
 
-Get in touch with me via email : jay@thechalakas.com . vijayasimhabr@live.com
+Get in touch with me via email : jay@thechalakas.com . vijayasimhabr@live.com.
+
+You can simply Google or Bing my name, "Vijayasimha BR" to learn more about me.
 
 ## Traveling Hobby
 
@@ -21,12 +23,11 @@ So, one of my childhood dreams was to study literature as a proper degree. I can
 
 ## Certifications, Awards and Achievements
 
-As on December 11th 2023.
+As on May 22nd 2024. 
 
 * [Microsoft MVP Certification on Credly](https://www.credly.com/badges/cec537a7-2e68-4f37-9f4d-c028e6828085/public_url)
 * [Top Rated Badge on UpWork](https://www.upwork.com/fl/vijayasimhabr)
 * [Level Two on Fiverr](https://www.fiverr.com/jay_codeguy)
-* [freeCodeCamp Certifications](https://www.freecodecamp.org/jay_tutor)
 
 ## Tutor. Coach : 2012 to Present
 
@@ -48,14 +49,6 @@ I own my own photo studio. My studio provides photography services to small busi
 1. Website: [sandkdesignstudio.in](https://sandkdesignstudio.in)
 1. Photography Nature. You can see my nature photography on [Unsplash](https://unsplash.com/@jay_neeruhaaku).
 1. Photography Fashion. You can see my fashion photography on [Behance](https://www.behance.net/vijayasimhabr)
-
-## AmiaY Workshops and Merch - Co-Founder - 2023 Onwards
-
-I cofounded this company that provides workshops and training on board games such as Chess, Catan, Ticket to Ride, Jaipur, Splendor, Azul and so on.
-
-1. Website, [amiay.in](http://amiay.in)
-2. Instagram: [amiayworkshopsandmerch](instagram.com/amiayworkshopsandmerch)
-3. LinkedIn: [amiay-workshops-and-merch](https://www.linkedin.com/company/amiay-workshops-and-merch/)
 
 ## Book Published
 
@@ -81,7 +74,7 @@ I try to maintain a few hobbies.
 1. Daily Life Blog. [Read it here](https://medium.com/the-sanguine-tech-trainer).
 1. Coding and Technology Blog. [Read it here](https://medium.com/projectwt).
 1. Daz 3D, Photography and Photoshop Blog. [Read it here](https://medium.com/random-pink-hula).
-
+1. Math and Economics Blog. [Read it here](https://medium.com/projectem)
 ## Open Source Projects
 
 1. [CSharpForStudents](https://github.com/Jay-study-nildana/CSharpForStudents)
